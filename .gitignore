@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Exportaciones si no quieres subirlas
+*.html
+*.pdf
